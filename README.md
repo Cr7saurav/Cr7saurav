@@ -14,7 +14,7 @@
 ## 👨‍🎓 About Me
 
 > *"Organized, detail-oriented, and passionate about turning data into decisions"*
-> 🚀 Built 3+ end-to-end data projects combining SQL, Python, Machine Learning, and Power BI
+> *🚀 Built 3+ end-to-end data projects combining SQL, Python, Machine Learning, and Power BI*
 
 🎓 **MCA Student** @ Galgotias University 
 🎓 **BCA Graduate** @ Graphic Era University 
@@ -79,11 +79,9 @@
 > Cleaned & analyzed customer data using Python (Pandas) to identify churn patterns. Used visualizations to highlight key retention factors and business impact.
 
 ### SQL Sales Analysis Project | SQL Server
-[View Project](https://github.com/Cr7saurav/SQL-Sales-Analysis)
-Designed relational database with Customers, Products, and Orders tables using SQL Server
-Performed data analysis using joins, aggregations, and window functions
-Identified key business insights such as top customers, best-selling products, and revenue trends
-Applied advanced SQL concepts like RANK(), CTE, and running totals for analytical queries.
+🔗 [View Project](https://github.com/Cr7saurav/SQL-Sales-Analysis)
+> Designed relational database with Customers, Products, and Orders tables using SQL Server
+Performed data analysis using joins, aggregations, and window functions. Identified key business insights such as top customers, best-selling products, and revenue trends.Applied advanced SQL concepts like RANK(), CTE, and running totals for analytical queries.
 
 ### 🛒 E-commerce Data Analysis
 > Analyzed customer purchase behavior & order trends. Built Power BI dashboards for business reporting & suggested strategies to increase sales and retention.
