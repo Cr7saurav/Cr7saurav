@@ -75,7 +75,7 @@
 > Analyzed large sales datasets using SQL & Excel to track revenue, product performance, and regional trends. Created interactive dashboards identifying top-performing products and low-sales regions.
 
 ### 📉 Customer Churn Analysis
-🔗 [View Project](https://github.com/Cr7saurav/customer-churn-analsis)
+🔗 [View Project](https://github.com/Cr7saurav/Customer-Churn-Analysis-ML-PowerBI)
 > Cleaned & analyzed customer data using Python (Pandas) to identify churn patterns. Used visualizations to highlight key retention factors and business impact.
 
 ### SQL Sales Analysis Project | SQL Server
