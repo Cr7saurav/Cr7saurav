@@ -1,6 +1,5 @@
 #  Saurav Kumar
-
-### Data Analyst skilled in SQL, Power BI & Machine Learning with end-to-end project experience
+Data Analyst skilled in SQL, Power BI & Machine Learning with end-to-end project experience
 
 <div align="center">
   
