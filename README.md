@@ -79,7 +79,7 @@
 > Cleaned & analyzed customer data using Python (Pandas) to identify churn patterns. Used visualizations to highlight key retention factors and business impact.
 
 ### SQL Sales Analysis Project | SQL Server
-🔗 [View Project](https://github.com/Cr7saurav/SQL-Sales-Analysis)
+🔗 [View Project](https://github.com/Cr7saurav/SQL-Sales-Business-Analysis)
 > Designed relational database with Customers, Products, and Orders tables using SQL Server
 Performed data analysis using joins, aggregations, and window functions. Identified key business insights such as top customers, best-selling products, and revenue trends.Applied advanced SQL concepts like RANK(), CTE, and running totals for analytical queries.
 
