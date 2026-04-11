@@ -1,4 +1,4 @@
-# 🚀 Saurav Kumar
+#  Saurav Kumar
 
 <div align="center">
   
@@ -14,6 +14,7 @@
 ## 👨‍🎓 About Me
 
 > *"Organized, detail-oriented, and passionate about turning data into decisions"*
+> 🚀 Built 3+ end-to-end data projects combining SQL, Python, Machine Learning, and Power BI
 
 🎓 **MCA Student** @ Galgotias University 
 🎓 **BCA Graduate** @ Graphic Era University 
@@ -70,10 +71,19 @@
 ## 🔥 Featured Projects
 
 ### 📊 Sales Performance Dashboard
+🔗 [View Project](https://github.com/Cr7saurav/Sales-Performance-Dashboard)
 > Analyzed large sales datasets using SQL & Excel to track revenue, product performance, and regional trends. Created interactive dashboards identifying top-performing products and low-sales regions.
 
 ### 📉 Customer Churn Analysis
+🔗 [View Project](https://github.com/Cr7saurav/customer-churn-analsis)
 > Cleaned & analyzed customer data using Python (Pandas) to identify churn patterns. Used visualizations to highlight key retention factors and business impact.
+
+### SQL Sales Analysis Project | SQL Server
+[View Project](https://github.com/Cr7saurav/SQL-Sales-Analysis)
+Designed relational database with Customers, Products, and Orders tables using SQL Server
+Performed data analysis using joins, aggregations, and window functions
+Identified key business insights such as top customers, best-selling products, and revenue trends
+Applied advanced SQL concepts like RANK(), CTE, and running totals for analytical queries.
 
 ### 🛒 E-commerce Data Analysis
 > Analyzed customer purchase behavior & order trends. Built Power BI dashboards for business reporting & suggested strategies to increase sales and retention.
@@ -131,8 +141,8 @@
   
 💼 **Open for:** Data Analyst Internships | Full-time Opportunities | Collaborations
 
-📧 **Email:** [sauravkumar@example.com](mailto:sauravkumar@example.com)  
-🔗 **LinkedIn:** [Saurav Kumar](https://www.linkedin.com/in/saurav-kumar-b0099424a)  
+📧 **Email:** [sauravkumar2484@gmail.com](mailto:sauravkumar2484@gmail.com)  
+🔗 **LinkedIn:** [Saurav Kumar](https://www.linkedin.com/in/saurav-kumar-cr7)  
 🐙 **GitHub:** [@Cr7saurav](https://github.com/Cr7saurav)
 
 </div>
