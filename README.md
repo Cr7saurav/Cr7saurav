@@ -85,6 +85,7 @@ Data Analyst skilled in SQL, Power BI & Machine Learning with end-to-end project
 Performed data analysis using joins, aggregations, and window functions. Identified key business insights such as top customers, best-selling products, and revenue trends.Applied advanced SQL concepts like RANK(), CTE, and running totals for analytical queries.
 
 ### 🛒 E-commerce Data Analysis
+🔗 [View Project](https://github.com/Cr7saurav/Ecommerce-Sales-Dashboard)
 > Analyzed customer purchase behavior & order trends. Built Power BI dashboards for business reporting & suggested strategies to increase sales and retention.
 
 ### 💹 Stock Analysis & Forecasting App
