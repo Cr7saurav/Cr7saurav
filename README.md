@@ -109,15 +109,7 @@ Performed data analysis using joins, aggregations, and window functions. Identif
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Cr7saurav&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400"/>
-</td>
-<td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cr7saurav&theme=radical&hide_border=true" width="400"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr7saurav&layout=compact&theme=radical&hide_border=true" width="400"/>
 </td>
 </tr>
 </table>
